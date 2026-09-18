@@ -212,4 +212,4 @@ NetworkMiner is offered as a complete free version with all features and updates
 Unlock the full potential of your network today with **NetworkMiner**! Download it now and start monitoring your network effortlessly.
 
 ---
-**Last updated:** 2026-09-18 06:53:17 UTC
+**Last updated:** 2026-09-18 11:59:20 UTC
